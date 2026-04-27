@@ -6,7 +6,7 @@ Exploratory analysis of historical climate data from Ethiopia, Kenya, Sudan, Tan
 ## How to Reproduce the Environment
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/climate-challenge-week0.git
+   git clone https://github.com/mahii8/climate-challenge-week0.git
    cd climate-challenge-week0
 
 2. Create a virtual environment:
